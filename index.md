@@ -1,6 +1,6 @@
 # AutoScroll 개인정보처리방침 / Privacy Policy
 
-**최종 갱신 / Last updated**: 2026-06-26
+**최종 갱신 / Last updated**: 2026-10-26
 
 ---
 
@@ -47,6 +47,13 @@ AutoScroll (이하 "본 앱") 은 사용자의 프라이버시를 최우선으�
 - **iOS**: 첫 진입 시 App Tracking Transparency 권한을 요청합니다. "허용하지 않음" 을 선택해도 광고는 표시되지만 사용자 관심사와 무관한 일반 광고만 표시됩니다.
 - **Android**: 설정 → Google → 광고 → "광고 ID 재설정" 또는 "맞춤 광고 사용 안 함" 으로 통제 가능합니다.
 - AdMob 의 [개인정보처리방침](https://policies.google.com/privacy) 이 적용됩니다.
+
+#### 2.4 인앱 구매 (광고 제거)
+- 본 앱은 광고 제거 등 인앱 구매를 제공할 수 있습니다.
+- 결제는 전부 Apple App Store(iOS) / Google Play(Android) 를 통해 처리됩니다. 카드 번호 등 결제 정보는 본 앱이나 운영자에게 전달되지 않습니다.
+- 본 앱은 구매 여부(광고 제거 상품 소유 여부)만 기기에서 확인해 광고 표시를 끄는 데 사용합니다. 이 정보는 운영자 서버로 전송되지 않습니다.
+- 구매 내역은 사용자의 Apple ID / Google 계정에 기록되며, 설정의 "구매 복원" 으로 다른 기기에서도 복원할 수 있습니다.
+- Apple 의 [개인정보처리방침](https://www.apple.com/legal/privacy/) / Google 의 [개인정보처리방침](https://policies.google.com/privacy) 이 적용됩니다.
 
 ### 3. 본 앱이 수집하지 않는 정보
 - 이름, 이메일, 전화번호 등 개인 식별 정보
@@ -120,6 +127,13 @@ The App is free and displays ads via Google AdMob.
 - **Android**: Settings → Google → Ads → "Reset advertising ID" or "Opt out of Ads Personalization".
 - Google AdMob's [Privacy Policy](https://policies.google.com/privacy) applies.
 
+#### 2.4 In-App Purchases (Remove Ads)
+- The App may offer in-app purchases such as removing ads.
+- All payments are processed by the Apple App Store (iOS) / Google Play (Android). Payment details such as card numbers are never shared with the App or its developer.
+- The App only checks on your device whether you own the remove-ads product, and uses that solely to hide ads. This is not sent to any developer server.
+- Purchases are tied to your Apple ID / Google account and can be restored on other devices via "Restore Purchases" in Settings.
+- Apple's [Privacy Policy](https://www.apple.com/legal/privacy/) / Google's [Privacy Policy](https://policies.google.com/privacy) apply.
+
 ### 3. Information NOT Collected
 - Personally identifiable info (name, email, phone)
 - Content of websites you visit through the in-app browser
@@ -191,6 +205,13 @@ AutoScroll (以下「本アプリ」) はユーザーのプライバシーを最
 - **iOS**: 初回起動時に App Tracking Transparency 許可を求めます。「許可しない」を選択しても広告は表示されますが、興味と無関係な一般広告のみとなります。
 - **Android**: 設定 → Google → 広告 → 「広告 ID をリセット」または「広告のカスタマイズをオプトアウト」で管理可能。
 - AdMob の [プライバシーポリシー](https://policies.google.com/privacy) が適用されます。
+
+#### 2.4 アプリ内課金 (広告削除)
+- 本アプリは広告削除などのアプリ内課金を提供する場合があります。
+- 決済はすべて Apple App Store (iOS) / Google Play (Android) を通じて処理されます。カード番号などの決済情報が本アプリや運営者に渡ることはありません。
+- 本アプリは広告削除商品の購入有無のみを端末内で確認し、広告を非表示にするためだけに使用します。この情報は運営者のサーバーに送信されません。
+- 購入履歴はお使いの Apple ID / Google アカウントに記録され、設定の「購入を復元」で他の端末でも復元できます。
+- Apple の[プライバシーポリシー](https://www.apple.com/legal/privacy/) / Google の[プライバシーポリシー](https://policies.google.com/privacy)が適用されます。
 
 ### 3. 本アプリが収集しない情報
 - 氏名、メールアドレス、電話番号などの個人識別情報
